@@ -11,9 +11,8 @@
 
 ## **Demo**
 
-![Screenshot 1](https://github.com/user-attachments/assets/54b20c02-48dc-47d5-bc9b-6c80fc6872c1?raw=true){:width="300px"}
-![Screenshot 2](https://github.com/user-attachments/assets/e9b6fa81-ecde-43db-993f-b826c803e535?raw=true){:width="300px"}
-
+<img src="https://github.com/user-attachments/assets/54b20c02-48dc-47d5-bc9b-6c80fc6872c1?raw=true" width="300"/>
+<img src="https://github.com/user-attachments/assets/e9b6fa81-ecde-43db-993f-b826c803e535?raw=true" width="300"/>
 
 
 ## **Prasyarat**
