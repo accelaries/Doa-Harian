@@ -11,9 +11,8 @@
 
 ## **Demo**
 
-![DOAKU Demo](![Screenshot 2024-12-04 003028](https://github.com/user-attachments/assets/54b20c02-48dc-47d5-bc9b-6c80fc6872c1)
-)
-![Screenshot 2024-12-04 004028](https://github.com/user-attachments/assets/e9b6fa81-ecde-43db-993f-b826c803e535)
+![Screenshot 2024-12-04 003028](https://github.com/user-attachments/assets/54b20c02-48dc-47d5-bc9b-6c80fc6872c1 =250x250)
+![Screenshot 2024-12-04 004028](https://github.com/user-attachments/assets/e9b6fa81-ecde-43db-993f-b826c803e535 =250x250)
 
 
 ## **Prasyarat**
