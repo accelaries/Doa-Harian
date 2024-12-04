@@ -11,8 +11,9 @@
 
 ## **Demo**
 
-![Screenshot 1](https://github.com/user-attachments/assets/54b20c02-48dc-47d5-bc9b-6c80fc6872c1?raw=true)
-![Screenshot 2](https://github.com/user-attachments/assets/e9b6fa81-ecde-43db-993f-b826c803e535?raw=true)
+![Screenshot 1](https://github.com/user-attachments/assets/54b20c02-48dc-47d5-bc9b-6c80fc6872c1?raw=true){:width="300px"}
+![Screenshot 2](https://github.com/user-attachments/assets/e9b6fa81-ecde-43db-993f-b826c803e535?raw=true){:width="300px"}
+
 
 
 ## **Prasyarat**
@@ -42,6 +43,7 @@ Setelah semua dependensi terinstal, jalankan aplikasi di perangkat emulator atau
 ## **Struktur Proyek**
 
 Berikut adalah struktur direktori utama dalam proyek **DOAKU**:
+
 ![image](https://github.com/user-attachments/assets/750d73ea-359b-4288-a6c8-241dd0a5093f)
 
 ### **Penjelasan Struktur**
